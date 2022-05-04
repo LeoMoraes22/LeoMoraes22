@@ -3,7 +3,7 @@
 ### Olá, me chamo Leonardo Moraes!👋
 
 Sou estudando de Engenharia da Computação, atualmente no 5° termo.
-- 🔭 Tenho grande enteresse na área de Desenvolvimento Web.
+- 🔭 Tenho grande interesse na área de Desenvolvimento Web.
 - 🌱 Atualmente tenho estou estudando HTML, CSS e JavaScript.
 - 🤝 Tenho amplos conhecimentos em PHP, C/C++, SQL e entre outras. 
 
