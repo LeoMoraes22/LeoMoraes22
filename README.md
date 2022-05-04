@@ -11,7 +11,7 @@ Sou estudando de Engenharia da Computação, atualmente no 5° termo.
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LeoMoraes22&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" "https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoraes22&layout=compact)](https://github.com/LeoMoraes22/github-readme-stats"/>
    </p>
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  (https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoraes22&layout=compact)](https://github.com/LeoMoraes22/github-readme-stats)
 
 
 
