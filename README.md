@@ -7,9 +7,7 @@ Sou estudando de Ciências da Computação, atualmente no 7° termo.
 - 🌱 Desenvolvimentos de sistemas em Delphi 10.4 e Java/Kottlin para deipositivos móveis.
 - 🤝 Atualmente utilizando Delphi | FireBird | Java | Kottlin | Firebase. 
 
- <a href="https://github.com/LeoMoraes22">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LeoMoraes22&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" "https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoraes22&layout=compact)](https://github.com/LeoMoraes22/github-readme-stats"/>
-   </p>
+
    
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMoraes22&layout=compact)](https://github.com/LeoMoraes22/github-readme-stats)
 
