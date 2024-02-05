@@ -2,7 +2,7 @@
 
 ### Olá, me chamo Leonardo Moraes!👋
 
-Sou estudando de Ciências da Computação, atualmente no 7° termo.
+Sou estudando de Ciências da Computação, atualmente no 8° termo.
 - 🔭 Desenvolvedor de Sistemas | ERP.
 - 🌱 Desenvolvimentos de sistemas em Delphi 10.4 e Java/Kottlin para deipositivos móveis.
 - 🤝 Atualmente utilizando Delphi | FireBird | Java | Kottlin | Firebase. 
