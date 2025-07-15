@@ -2,7 +2,7 @@
 
 ### Olá, me chamo Leonardo Moraes!👋
 
-Sou estudando de Ciências da Computação, atualmente no 8° termo.
+Formado em Ciências da Computação.
 - 🔭 Desenvolvedor Java Full Stack.
 - 🌱 Desenvolvimentos de sistemas em Java | Vaadin e Java/Kottlin para deipositivos móveis.
 - 🤝 Atualmente utilizando Java | Git | Docker| MYSQL | JUnit | JasperReports | Vaadin.
